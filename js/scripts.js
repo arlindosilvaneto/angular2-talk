@@ -4640,7 +4640,7 @@ Reveal.addEventListener('ready', function() {
   'use strict';
 
   var footer = TEMPLATES.footer({
-    title: 'A vida secreta dos componentes'
+    title: 'Angular 2'
   });
 
   var sectionEls = document.querySelectorAll('section:not(.stack)');
